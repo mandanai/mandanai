@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an Software Engineer. That's right, I make apps for mobile and web application
 
-![](https://github-profile-trophy.vercel.app/?username=mandnaai)
+![](https://github-profile-trophy.vercel.app/?username=mandanai)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandanai&show_icons=true&locale=en" alt="mandanai" /></p>
 
