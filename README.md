@@ -32,6 +32,9 @@ I'm an Software Engineer. That's right, I make apps for mobile and web applicati
   <a href="https://www.php.net" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="40" />
   </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" alt="Android Studio" height="40" />
+  </a>
 </p>
 
 ### Connect with me:
