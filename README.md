@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Chayaphon Pansuwan
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&label=PROFILE+VIEWS)
+
 I'm an Software Engineer. That's right, I make apps for mobile and web application
 
 ![](https://github-profile-trophy.vercel.app/?username=mandanai)
