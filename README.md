@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=mandanai&color=green&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mandanai&color=green&label=PROFILE+VIEWS&abbreviated=true)
 
 ---
 
